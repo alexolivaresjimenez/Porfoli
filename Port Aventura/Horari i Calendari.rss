@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title>Port Aventura Calendari</title>
+<link>https://www.portaventuraworld.com/</link>
+<description>Informació sobre el parc d'atraccions Port Aventura </description>
+<category domain="http://www.taxonomia.com/taxonomiaCicles">1DAM/mòduls/Llengautge de marques</category>
+<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+<ttl>40</ttl>
+<pubDate>Mon, 10 Jan 2022 11:30:00 +0100</pubDate>
+<image>
+<url>https://img.icons8.com/material/480/portaventura-world.png</url>
+<title>ICON</title>
+<link>https://www.portaventuraworld.com/</link>
+<description>ICON</description>
+<width>50</width>
+<height>50</height>
+</image>
+<lastBuildDate>Sun, 29 Jan 2023 13:30:00 +0100</lastBuildDate>
+<generator>Visual Studio Code</generator>
+<language>ca</language>
+<managingEditor>alexolivaresjimenez@gmail.com </managingEditor>
+<webMaster>alexolivaresjimenez@gmail.com</webMaster>
+<skipDays>
+    <day>Thuesday</day>
+    <day>Wednesday</day>
+    <day>Thursday</day>
+    <day>Friday</day>
+    <day>Saturday</day>
+    <day>Sunday</day>
+    </skipDays>
+
+<item>
+<title>
+<![CDATA[ <h1>Horari i Calendari</h1> ]]>
+</title>
+<link>https://www.portaventuraworld.com/ca/horaris-calendari</link>
+<description>
+<![CDATA[ <p><img src="https://blog.demediterraning.com/wp-content/uploads/2017/03/Port_Aventura_Calendario-1.jpg"></p><p>De moment el parc no està obert. Tornarà a obrir tan aviat les autoritats sanitàries ho permeten</p> ]]>
+</description>
+<guid isPermaLink="false">001N</guid>
+<author>alexolivaresjimenez@gmail.com</author>
+<pubDate>Sun, 29 Jan 2023 12:30:00 +0100</pubDate>
+</item>
+</channel>
+</rss>

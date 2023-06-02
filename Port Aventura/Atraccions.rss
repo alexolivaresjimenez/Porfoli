@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title>Port Aventura Atracció</title>
+<link>https://www.portaventuraworld.com/</link>
+<description>Informació sobre el parc d'atraccions Port Aventura </description>
+<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+<ttl>40</ttl>
+<pubDate>Mon, 10 Jan 2022 11:30:00 +0100</pubDate>
+<image>
+<url>https://img.icons8.com/material/480/portaventura-world.png</url>
+<title>ICON</title>
+<link>https://www.portaventuraworld.com/</link>
+<description>ICON</description>
+<width>50</width>
+<height>50</height>
+</image>
+<lastBuildDate>Sun, 29 Jan 2023 13:30:00 +0100</lastBuildDate>
+<generator>Visual Studio Code</generator>
+<language>ca</language>
+<managingEditor>alexolivaresjimenez@gmail.com </managingEditor>
+<webMaster>alexolivaresjimenez@gmail.com</webMaster>
+    <skipDays>
+    <skipHours>
+        <day>Friday</day>
+        <hour>9</hour>
+        <hour>10</hour>
+        <hour>11</hour>
+        <hour>12</hour>
+        <hour>13</hour>
+        <hour>14</hour>
+        <hour>15</hour>
+        <hour>16</hour>
+    </skipHours>
+        <day>Saturday</day>
+        <day>Sunday</day>
+        </skipDays>
+
+<item>
+    <title><![CDATA[<h1>Furius Baco</h1>]]></title>
+    <link>https://www.portaventuraworld.com/atracciones/furius-baco</link>
+    <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/7137d2d8dc5408cd49f6484addff44b442cd1749b31e3ba3c5abfd86ca4a5f59.jpg?tx=ar_2.00,c_crop/w_983,h_499,c_fit"></p><p>Esta increíble atracción pone a prueba a los más valientes acelerando de 0 a 135 km/h en tan solo 3 segundos. En su vertiginoso recorrido, se desliza casi a ras de suelo, atraviesa zanjas y túneles, e incluso roza el agua del lago de Mediterrània</p>]]></description> 
+    <author>alexolivaresjimenez@gmail.com</author>
+    <pubDate>Sun, 29 Jan 2023 12:30:00 +0100</pubDate>
+    <category >Mediterrania/Molt intens</category>
+</item>
+
+<item>
+    <title><![CDATA[<h1>Tami Tami</h1>]]></title>
+    <link>https://www.portaventuraworld.com/atracciones/tami-tami</link>
+    <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/fcb78d18f389bc6b03b3087171bd29c57524939ed319d571b9e069876b392d76.jpg?tx=ar_2.00,c_crop/w_983,h_499,c_fit"></p><p>Una de las atracciones míticas de PortAventura ha sido rescatada por nuestros amigos de Sesame Street y la han instalado en el corazón de SésamoAventura.</p>]]></description> 
+    <author>alexolivaresjimenez@gmail.com</author>
+    <pubDate>Sun, 29 Jan 2023 12:30:00 +0100</pubDate>
+    <category >Sesamo Aventura/Poc intens</category>
+</item>
+
+<item>
+    <title><![CDATA[<h1>Shambala</h1>]]></title>
+    <link>https://www.portaventuraworld.com/atracciones/shambhala</link>
+    <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/680dc0211eb73425779eabf7b3650248ad690bf9a96c9343784117101fad10b4.jpg?tx=ar_2.00,c_crop/w_983,h_499,c_fit"></p><p>En un valle de Asia Central, entre las inexpugnables montañas del Himalaya, dice la leyenda que se encuentra una ciudad que es la cuna de la eterna juventud, un centro de felicidad y un reino de paz y sabiduría</p>]]></description> 
+    <author>alexolivaresjimenez@gmail.com</author>
+    <pubDate>Sun, 29 Jan 2023 12:30:00 +0100</pubDate>
+    <category >China/Molt intens</category>
+</item>
+
+<item>
+    <title><![CDATA[<h1>Huracan Condor</h1>]]></title>
+    <link>https://www.portaventuraworld.com/atracciones/hurakan-condor</link>
+    <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/6f5aea65be2089605f5b17e9f424cfb62110c1cb1a94b407945f85d2cda84f79.jpg?tx=ar_2.00,c_crop/w_983,h_499,c_fit"></p><p>Al llegar al área de México de PortAventura verás una gran torre de más de 100 metros de altura que convierte a la atracción Hurakan Condor en la más imponente del parque.</p>]]></description> 
+    <author>alexolivaresjimenez@gmail.com</author>
+    <pubDate>Sun, 29 Jan 2023 12:30:00 +0100</pubDate>
+    <category >Mexico/Molt intens</category>
+</item>
+
+
+
+</channel>
+</rss>

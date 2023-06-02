@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+<title>Port Aventura Restaurant</title>
+<link>https://www.portaventuraworld.com/</link>
+<description>Informació sobre el parc d'atraccions Port Aventura </description>
+<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+<ttl>40</ttl>
+<pubDate>Mon, 10 Jan 2022 11:30:00 +0100</pubDate>
+<image>
+<url>https://img.icons8.com/material/480/portaventura-world.png</url>
+<title>ICON</title>
+<link>https://www.portaventuraworld.com/</link>
+<description>ICON</description>
+<width>50</width>
+<height>50</height>
+</image>
+<lastBuildDate>Sun, 29 Jan 2023 13:30:00 +0100</lastBuildDate>
+<generator>Visual Studio Code</generator>
+<language>ca</language>
+<managingEditor>alexolivaresjimenez@gmail.com </managingEditor>
+<webMaster>alexolivaresjimenez@gmail.com</webMaster>
+    <skipHours>
+        <hour>2</hour>
+        <hour>3</hour>
+        <hour>4</hour>
+        <hour>5</hour>
+        <hour>6</hour>
+        <hour>7</hour>
+        <hour>8</hour>
+        <hour>9</hour>
+        <hour>10</hour>
+        <hour>11</hour>
+        <hour>12</hour>
+        <hour>13</hour>
+        <hour>14</hour>
+    </skipHours>
+
+<item>
+    <title><![CDATA[<h1>Furius Baco</h1>]]></title>
+    <link>https://www.portaventuraworld.com/ca/restaurants/raco-de-mar</link>
+    <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/35ffdb914156b8220a301ccdfc0b21739555b4e670c920dfc1228b1ba43947f9.jpg?tx=ar_2.00,c_crop/w_983,h_499,c_fit"></p><p>La dieta mediterrània és famosa per ser saludable, però també per ser deliciosa! A Racó de Mar hem seleccionat els grans sabors del Mediterrani per oferir-te un gran viatge gastronòmic: des del socarrat d’una paella valenciana fins a una orada al forn o una pizza amb els ingredients més frescos. Nyam, nyam!</p>]]></description> 
+    <author>alexolivaresjimenez@gmail.com</author>
+    <pubDate>Sun, 29 Jan 2023 12:30:00 +0100</pubDate>
+    <category >Mediterrania/Restaurant Cafeteria</category>
+</item>
+
+<item>
+    <title><![CDATA[<h1>La Cocina de Epi</h1>]]></title>
+    <link>https://www.portaventuraworld.com/ca/restaurants/la-cocina-de-epi</link>
+    <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/9582bc60eadc092796e6a80cce7989904e938f05d0b346b2bd0f4f7487cf3103.jpg?tx=ar_2.00,c_crop/w_983,h_499,c_fit"></p><p>Coneixies les habilitats culinàries de l’Epi? Segur que no. Doncs va ser a PortAventura on va decidir obrir el seu restaurant de pizzes, pasta, hamburgueses, pollastre i amanides. I ves a saber. Potser és el primer de molts altres restaurants i es convertirà en una gran estrella de la gastronomia.</p>]]></description> 
+    <author>alexolivaresjimenez@gmail.com</author>
+    <pubDate>Sun, 29 Jan 2023 12:30:00 +0100</pubDate>
+    <category >Sesamo Aventura/Restaurant Bar</category>
+</item>
+
+<item>
+    <title><![CDATA[<h1>Canton</h1>]]></title>
+    <link>https://www.portaventuraworld.com/ca/restaurants/canton</link>
+    <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/d13ca8b90518003518ea8d0bbcb946f5c672b0af49747de431d02d6661f00041.jpg?tx=ar_2.00,c_crop/w_983,h_499,c_fit"></p><p>Et presentem un nou concepte de cuina: el wok showcooking. Una manera espectacular de cuinar, perquè puguis veure com et preparen els fideus en un wok amb gran habilitat. Preparat per assaborir aquesta experiència?</p>]]></description> 
+    <author>alexolivaresjimenez@gmail.com</author>
+    <pubDate>Sun, 29 Jan 2023 12:30:00 +0100</pubDate>
+    <category >China/Snaks</category>
+</item>
+
+<item>
+    <title><![CDATA[<h1>La Cantina</h1>]]></title>
+    <link>https://www.portaventuraworld.com/ca/restaurants/raco-de-mar</link>
+    <description><![CDATA[<p><img src="https://media.portaventuraworld.com/mediaManager/image/88ebdf9e60722f1fcd8fc4e4b70a892e3bb08db7b61b47c81fb72ce1426557ec.jpg?tx=ar_2.00,c_crop/w_983,h_499,c_fit"></p><p>Gaudeix del Mèxic més alegre i divertit a La Cantina, on t’esperen mariachis amb un gran espectacle perquè els teus àpats es converteixin en una autèntica festa. T’esperem davant la sortida d’Hurakan Condor amb menjar mexicà, amanides i postres… Que comenci la festa!</p>]]></description> 
+    <author>alexolivaresjimenez@gmail.com</author>
+    <pubDate>Sun, 29 Jan 2023 12:30:00 +0100</pubDate>
+    <category >Mexico/Boufet</category>
+</item>
+
+
+
+</channel>
+</rss>
