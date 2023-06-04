@@ -1,0 +1,30 @@
+Mr. Pig és un joc en el qual has de controlar un porc per salvar el bosc de la invasió dels monstres. El teu objectiu és derrotar al malvat Yeti i als seus secuaces, que inclouen fantasmes i slimes, per poder guanyar.
+
+Controls:
+
+-MUEVETE LIBREMENTE EN LA PANTALLA DE TÍTULO  PARA PROBAR LOS CONTROLES.
+-Utilitza les fletxes per moure't i saltar.
+-Per disparar, prem la tecla Q.
+-Si presionas R es reinicia el videojoc.
+
+
+
+Bugs o mancances:
+
+-No he tingut temps d'afegir plataformes, cosa que m'hauria agradat, però sí que hi ha col·lisions amb les parets.
+-No he descobert cap bug que espatlli el joc.
+
+
+
+Característiques:
+
+-El joc té 3 pantalles operatives, a més de la pantalla de títol, la de derrota i la de guanyar.
+-Pots disparar als enemics.
+-He afegit col·lisions entre objectes.
+-Hi ha un power up que és el cor que et proporciona vida extra.
+-Pots saltar i hi ha animacions per a aquesta acció.
+-La vida del jugador es mostra a la pantalla.
+-Hi ha fins a 3 tipus d'enemics implementats, amb diferents mides, velocitats, posicions i interaccions.
+
+
+¡¡Oing Oing!!
